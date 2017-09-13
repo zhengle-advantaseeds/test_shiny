@@ -1,7 +1,7 @@
 Package: testShinyDemo
 Type: Package
 Title: Demo of shiny package
-Version: 0.0.2
+Version: 0.0.4
 Date: 2017-09-12
 Author: Le Zheng
 Maintainer: Le Zheng <le.zheng@advantaseeds.com>

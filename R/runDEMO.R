@@ -1,5 +1,0 @@
-#' @export
-
-runDEMO <- function() {
-
-}
